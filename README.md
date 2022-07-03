@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o utilizo para testar códigos e participar de projetos colaborativos.
 
 * 🌍  I'm based in Fatec-guaratinguetá
-* 🖥️  See my portfolio at [https://ariel-paixao.vercel.app](http://https://ariel-paixao.vercel.app)
+* 🖥️  See my portfolio at [ariel-paixao.vercel.app](http://https://ariel-paixao.vercel.app)
 * ✉️  You can contact me at [paixaoariellll@gmail.com](mailto:paixaoariellll@gmail.com)
 * 🧠  I'm learning React.js + Python
 * ⚡  Habilidades: NODE\_JS / REACT\_JS / JS / HTML / CSS / BOOTSTRAP / MySQL\_Workbench
