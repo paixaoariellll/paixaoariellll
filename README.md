@@ -9,7 +9,7 @@ Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o ut
 * 🌍  I'm based in Fatec-guaratinguetá
 * 🖥️  See my portfolio at [Portfólio](https://ariel-paixao.vercel.app)
 * ✉️  You can contact me at [paixaoariellll@gmail.com](mailto:paixaoariellll@gmail.com)
-* 🧠  I'm learning React.js + Python
+* 🧠  I'm learning React.js + JavaScript
 * ⚡  Habilidades: NODE\_JS / REACT\_JS / JS / HTML / CSS / BOOTSTRAP / MySQL\_Workbench
 
 ### Skills
