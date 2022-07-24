@@ -42,6 +42,7 @@ Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o ut
 </br>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="50" height="50" alt="Filebase" /></a>&nbsp;
 </p>
+<a href="https://github.com/paixaoariellll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
 
 ### Socials
@@ -54,7 +55,6 @@ Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o ut
 
 <a align="center" href="http://www.github.com/paixaoariellll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paixaoariellll&stroke=6366f1&background=171717&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a> <a href="http://www.github.com/paixaoariellll"><img src="https://github-readme-stats.vercel.app/api?username=paixaoariellll&show_icons=true&hide=&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="paixaoariellll's GitHub stats" /></a> 
 
-<a href="https://github.com/paixaoariellll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
 
 
