@@ -42,12 +42,12 @@ Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o ut
 </br>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="50" height="50" alt="Filebase" /></a>&nbsp;
 </p>
-<a href="https://github.com/paixaoariellll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+<a href="https://github.com/paixaoariellll" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
 
 ### Socials
 
-<p align="rigth">
+<p align="left">
 <a href="https://discord.com/users/Ariel_p#2713" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a>  &nbsp;
 <a href="https://www.github.com/paixaoariellll" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>  &nbsp; 
 <a href="http://www.instagram.com/ariel.paixaao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>  &nbsp; 
