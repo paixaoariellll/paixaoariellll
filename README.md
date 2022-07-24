@@ -47,7 +47,11 @@ Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o ut
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Ariel_p#2713" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a>  &nbsp; <a href="https://www.github.com/paixaoariellll" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>  &nbsp; <a href="http://www.instagram.com/ariel.paixaao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>  &nbsp; <a href="https://www.linkedin.com/in/ariel-paixao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
+<p align="rigth">
+<a href="https://discord.com/users/Ariel_p#2713" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a>  &nbsp;
+<a href="https://www.github.com/paixaoariellll" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a>  &nbsp; 
+<a href="http://www.instagram.com/ariel.paixaao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>  &nbsp; 
+<a href="https://www.linkedin.com/in/ariel-paixao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
 ### Badges
 
