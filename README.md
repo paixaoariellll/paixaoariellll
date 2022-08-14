@@ -1,10 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Paixão!!
-======================================================================================================================================
-
-😎 Front + Back / Developer ✔
-------------------------------
-
-Eu fiz esse perfil para upar meus projetos pessoais e da faculdade, mas já o utilizo para testar códigos e participar de projetos colaborativos.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B754FF&background=FFFFFF00&center=true&vCenter=true&width=1200&height=400&lines=Ol%C3%A1+Mundo!;Eu+sou+Ariel+Paix%C3%A3o+%F0%9F%98%8A;%F0%9F%98%8E+Front+%2B+Back+%2F+Developer+%E2%9C%94;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+===================================================================================================================================================================
 
 * 🌍  I'm based in Fatec-guaratinguetá
 * 🖥️  See my portfolio at [Portfólio](https://ariel-paixao.vercel.app)
