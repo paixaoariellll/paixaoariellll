@@ -1,14 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B754FF&background=FFFFFF00&center=true&vCenter=true&width=1200&height=400&lines=Ol%C3%A1+Mundo!;Eu+sou+Ariel+Paix%C3%A3o+%F0%9F%98%8A;%F0%9F%98%8E+Front+%2B+Back+%2F+Developer+%E2%9C%94;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
-===================================================================================================================================================================
-<a href="https://visitcount.itsvg.in">
+<div align="center"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=paixaoariellll&label=Visitas&color=11&icon=0&pretty=false" />
 </a>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B754FF&background=FFFFFF00&center=true&vCenter=true&width=1200&height=400&lines=Ol%C3%A1+Mundo!;Eu+sou+Ariel+Paix%C3%A3o+%F0%9F%98%8A;%F0%9F%98%8E+Front+%2B+Back+%2F+Developer+%E2%9C%94;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+===================================================================================================================================================================
+
 
 * 🌍  I'm based in Fatec-guaratinguetá
 * 🖥️  See my portfolio at [Portfólio](https://ariel-paixao.vercel.app)
 * ✉️  You can contact me at [paixaoariellll@gmail.com](mailto:paixaoariellll@gmail.com)
 * 🧠  I'm learning React.js + JavaScript
 * ⚡  Habilidades: NODE\_JS / REACT\_JS / JS / HTML / CSS / BOOTSTRAP / MySQL\_Workbench
+
 
 ### Skills
 
