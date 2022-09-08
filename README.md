@@ -1,5 +1,5 @@
 <div align="center"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=paixaoariellll&label=Visitas&color=11&icon=0&pretty=false" />
+[![](https://visitcount.itsvg.in/api?id=paixaoariellll&label=Visitas&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </a>
 </div>
 
