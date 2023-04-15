@@ -3,7 +3,7 @@
 </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B754FF&background=FFFFFF00&center=true&vCenter=true&width=1200&height=400&lines=Ol%C3%A1+Mundo!;Eu+sou+Ariel+Paix%C3%A3o+%F0%9F%98%8A;%F0%9F%98%8E+Front+%2B+Back+%2F+Developer+%E2%9C%94;Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=B754FF&background=FFFFFF00&center=true&vCenter=true&width=1200&height=400&lines=Ol%C3%A1+Mundo!;Eu+sou+Ariel+Paix%C3%A3o+%F0%9F%98%8A;%F0%9F%98%8E+Front+%2B+Back+%2F+Developer+%E2%9C%94;Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 ===================================================================================================================================================================
 
 
