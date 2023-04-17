@@ -42,8 +42,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" height="50" alt="Figma" /></a> &nbsp;
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="50" height="50" alt="Web3Js" /></a> &nbsp;
 </br>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="50" height="50" alt="Filebase" /></a>&nbsp;
-</p><a href="https://github.com/paixaoariellll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paixaoariellll&show_icons=true&theme=radical" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paixaoariellll&layout=full&hide_border=true&title_color=d83b7d&text_color=00ffff&bg_color=0d1117" />
+</div>
 
 
 
@@ -55,11 +58,11 @@
 <a href="http://www.instagram.com/ariel.paixaao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>  &nbsp; 
 <a href="https://www.linkedin.com/in/ariel-paixao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a></p>
 
-### Badges
+## 🏆 GitHub Trophies
 
-<b>My GitHub Stats</b>
-
-<a align="center" href="http://www.github.com/paixaoariellll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paixaoariellll&stroke=6366f1&background=171717&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a> <a href="http://www.github.com/paixaoariellll"><img src="https://github-readme-stats.vercel.app/api?username=paixaoariellll&show_icons=true&hide=&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="paixaoariellll's GitHub stats" /></a> 
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=paixaoariellll&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
